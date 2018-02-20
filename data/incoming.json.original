@@ -1,0 +1,32 @@
+[
+  { "time": 1700, "headcount": 1 },
+  { "time": 1700, "headcount": 1 },
+  { "time": 1700, "headcount": 2 },
+  { "time": 1700, "headcount": 4 },
+  { "time": 1700, "headcount": 4 },
+
+  { "time": 1800, "headcount": 1 },
+  { "time": 1800, "headcount": 1 },
+  { "time": 1800, "headcount": 2 },
+  { "time": 1800, "headcount": 2 },
+
+  { "time": 1830, "headcount": 4 },
+  { "time": 1830, "headcount": 6 },
+  { "time": 1830, "headcount": 7 },
+
+  { "time": 1900, "headcount": 2 },
+  { "time": 1900, "headcount": 2 },
+  { "time": 1900, "headcount": 2 },
+  { "time": 1900, "headcount": 4 },
+  { "time": 1900, "headcount": 4 },
+  { "time": 1900, "headcount": 4 },
+  { "time": 1900, "headcount": 8 },
+
+  { "time": 1930, "headcount": 1 },
+  { "time": 1930, "headcount": 2 },
+  { "time": 1930, "headcount": 5 },
+
+  { "time": 2000, "headcount": 2 },
+  { "time": 2000, "headcount": 4 },
+  { "time": 2000, "headcount": 5 }
+]

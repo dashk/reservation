@@ -1,0 +1,12 @@
+[
+  { "name": "A", "min": 1, "max": 2 },
+  { "name": "B", "min": 1, "max": 2 },
+  { "name": "C", "min": 1, "max": 2 },
+  { "name": "D", "min": 2, "max": 4 },
+  { "name": "E", "min": 2, "max": 4 },
+  { "name": "F", "min": 2, "max": 4 },
+  { "name": "G", "min": 1, "max": 4 },
+  { "name": "H", "min": 6, "max": 8 },
+  { "name": "I", "min": 6, "max": 8 },
+  { "name": "J", "min": 4, "max": 10 }
+]
